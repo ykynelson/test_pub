@@ -19,15 +19,15 @@
     - [ ] 医疗
     - [ ] 零售
     - [ ] 制造
-    - [ ] 软件/互联网
+    - [x] 软件/互联网
     - [ ] 娱乐
     - [ ] 其他: ______
 *   **业务模式:**
     - [ ] B2C (Business to Consumer) - 面向终端消费者
-    - [ ] B2B (Business to Business) - 面向企业客户
+    - [x] B2B (Business to Business) - 面向企业客户
     - [ ] B2B2C (Business to Business to Consumer)
     - [ ] C2C (Consumer to Consumer)
-    - [ ] 内部工具 (Internal Tool)
+    - [x] 内部工具 (Internal Tool)
     - [ ] 开源项目 (Open Source)
 
 ---
